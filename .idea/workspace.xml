@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b911d7-8030-45de-8641-18d0e781a494" name="Changes" comment="" />
+    <list default="true" id="99b911d7-8030-45de-8641-18d0e781a494" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +45,9 @@
         <option value="TypeScript JSX File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/frontend/src/features/audioPlayerApi.ts" root0="FORCE_HIGHLIGHTING" />
@@ -86,6 +92,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "copilot.chat.legacySessionMetadata.migrated": "true",
     "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "D:/practice/JSDevelop/audio_player",
     "node.js.detected.package.eslint": "true",
@@ -196,7 +203,7 @@
       <workItem from="1783526897053" duration="2804000" />
       <workItem from="1783600562069" duration="61000" />
       <workItem from="1783839257061" duration="1137000" />
-      <workItem from="1783840480416" duration="3858000" />
+      <workItem from="1783840480416" duration="5456000" />
     </task>
     <servers />
   </component>
