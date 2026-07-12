@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99b911d7-8030-45de-8641-18d0e781a494" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="35d2ee8b-455f-4fc0-8e41-e5c58f3bea2e" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="35d2ee8b-455f-4fc0-8e41-e5c58f3bea2e" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/practice/JSDevelop/audio_player" value="3Cf8h4WGVcHXwiJ0qcr8ZM6BUEx" />
+      <entry key="_D:/practice/JSDevelop/audio_player_dep" value="3GOOfoGzFzbjxd11aGjbsh3GUPZ" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/frontend/src/features/audioPlayerApi.ts" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: true
+}</component>
+  <component name="ProjectId" id="3Cf8h4WGVcHXwiJ0qcr8ZM6BUEx" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.google.cloudcode.ide_session_index": "20260712_0001",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/practice/JSDevelop/audio_player",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "D:\\practice\\JSDevelop\\audio_player\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\practice\JSDevelop\audio_player\frontend\src\components\layout" />
+      <recent name="D:\practice\JSDevelop\audio_player\frontend\src\components\skeletons" />
+      <recent name="D:\practice\JSDevelop\audio_player\frontend\src\components" />
+      <recent name="D:\practice\JSDevelop\audio_player\backend\src" />
+      <recent name="D:\practice\JSDevelop\audio_player\frontend\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\practice\JSDevelop\audio_player\frontend\src\pages\chat" />
+      <recent name="D:\practice\JSDevelop\audio_player\frontend\src\pages\admin" />
+      <recent name="D:\practice\JSDevelop\audio_player\frontend\src\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="npm dev" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.26222.68" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b911d7-8030-45de-8641-18d0e781a494" name="Changes" comment="" />
+      <created>1776765381594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776765381594</updated>
+      <workItem from="1776765382508" duration="7033000" />
+      <workItem from="1776784702357" duration="1680000" />
+      <workItem from="1776924460887" duration="25000" />
+      <workItem from="1777023464102" duration="194000" />
+      <workItem from="1777023678456" duration="460000" />
+      <workItem from="1777024157762" duration="67000" />
+      <workItem from="1777024293265" duration="893000" />
+      <workItem from="1777101265144" duration="164000" />
+      <workItem from="1777101452749" duration="4398000" />
+      <workItem from="1777191750113" duration="7752000" />
+      <workItem from="1777207691887" duration="1751000" />
+      <workItem from="1777224277432" duration="599000" />
+      <workItem from="1777270286121" duration="10491000" />
+      <workItem from="1777289363479" duration="20000" />
+      <workItem from="1778066173998" duration="3685000" />
+      <workItem from="1778176642789" duration="90000" />
+      <workItem from="1778649559807" duration="6955000" />
+      <workItem from="1779044787478" duration="49000" />
+      <workItem from="1779081992143" duration="34406000" />
+      <workItem from="1779167998321" duration="15746000" />
+      <workItem from="1779344998431" duration="8856000" />
+      <workItem from="1779354212862" duration="8774000" />
+      <workItem from="1779366536767" duration="2532000" />
+      <workItem from="1779431924944" duration="15142000" />
+      <workItem from="1779976501410" duration="137000" />
+      <workItem from="1780032013988" duration="20708000" />
+      <workItem from="1780059603122" duration="228000" />
+      <workItem from="1780150571971" duration="65000" />
+      <workItem from="1780739629327" duration="4870000" />
+      <workItem from="1780814118018" duration="8277000" />
+      <workItem from="1780829163712" duration="14000" />
+      <workItem from="1780832660152" duration="30000" />
+      <workItem from="1781502662067" duration="28545000" />
+      <workItem from="1781552052802" duration="112000" />
+      <workItem from="1781592732367" duration="8100000" />
+      <workItem from="1781693901576" duration="160000" />
+      <workItem from="1781766661991" duration="17311000" />
+      <workItem from="1781853962008" duration="18962000" />
+      <workItem from="1782025570276" duration="60000" />
+      <workItem from="1782027619792" duration="1256000" />
+      <workItem from="1782122274912" duration="10479000" />
+      <workItem from="1782385061619" duration="187000" />
+      <workItem from="1782393169418" duration="693000" />
+      <workItem from="1782721565384" duration="68000" />
+      <workItem from="1782731868791" duration="151000" />
+      <workItem from="1782824165828" duration="1766000" />
+      <workItem from="1783150918740" duration="1262000" />
+      <workItem from="1783185717042" duration="28000" />
+      <workItem from="1783235044180" duration="5480000" />
+      <workItem from="1783319608219" duration="7581000" />
+      <workItem from="1783526897053" duration="2804000" />
+      <workItem from="1783600562069" duration="61000" />
+      <workItem from="1783839257061" duration="1137000" />
+      <workItem from="1783840480416" duration="3858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
