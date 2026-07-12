@@ -24,7 +24,7 @@ export const getSocket = () => {
 const chatApi = createApi({
     reducerPath: "chatApi",
     baseQuery: fetchBaseQuery({
-        baseUrl: import.meta.env.MODE === "development" ? "http://localhost:5000" : "",
+        baseUrl: import.meta.env.MODE === "development" ? "http://localhost:5000/api" : "/api",
         credentials: "include",
         prepareHeaders: (headers: Headers, { getState }) => {
             const state = getState() as any;
