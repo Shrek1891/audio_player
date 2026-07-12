@@ -58,8 +58,7 @@ const ChatPage = () => {
                     {selectedUser ? (
                         <>
                             <ChatHeader />
-
-                            <ScrollArea className='flex-1'>
+                            <ScrollArea className='flex-1 '>
                                 <div className='p-4 min-h-full flex flex-col justify-end'>
                                     <div className='space-y-4'>
                                         {isFetchingMessages ? (
@@ -95,7 +94,6 @@ const ChatPage = () => {
                                                 );
                                             })
                                         )}
-                                        {/* Якорь для скролла */}
                                         <div ref={scrollRef} className="h-px w-px" />
                                     </div>
                                 </div>
