@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b911d7-8030-45de-8641-18d0e781a494" name="Changes" comment="" />
+    <list default="true" id="99b911d7-8030-45de-8641-18d0e781a494" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/lib/socket.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/lib/socket.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +94,7 @@
     "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/practice/JSDevelop/audio_player",
+    "last_opened_file_path": "D:/practice/JSDevelop/audio_player/frontend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -108,11 +111,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\practice\JSDevelop\audio_player\frontend" />
       <recent name="D:\practice\JSDevelop\audio_player\frontend\src\components\layout" />
       <recent name="D:\practice\JSDevelop\audio_player\frontend\src\components\skeletons" />
       <recent name="D:\practice\JSDevelop\audio_player\frontend\src\components" />
       <recent name="D:\practice\JSDevelop\audio_player\backend\src" />
-      <recent name="D:\practice\JSDevelop\audio_player\frontend\src\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\practice\JSDevelop\audio_player\frontend\src\pages\chat" />
@@ -200,7 +203,7 @@
       <workItem from="1783526897053" duration="2804000" />
       <workItem from="1783600562069" duration="61000" />
       <workItem from="1783839257061" duration="1137000" />
-      <workItem from="1783840480416" duration="5905000" />
+      <workItem from="1783840480416" duration="6227000" />
     </task>
     <servers />
   </component>
