@@ -29,7 +29,7 @@ const MessageInput = () => {
     };
 
     return (
-        <div className='p-4 mt-auto border-t border-zinc-800'>
+        <div className='p-4 mt-auto border-t border-zinc-800 sticky bottom-0 '>
             <div className='flex gap-2'>
                 <Input
                     placeholder='Type a message'
